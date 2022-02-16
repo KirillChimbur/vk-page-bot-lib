@@ -1,0 +1,10 @@
+{
+    "name": "VKBot",
+    "autoload": {
+        "psr-4": {
+            "api\\": "src/api/",
+            "utils\\": "src/utils/",
+            "event\\": "src/event/"
+        }
+    }
+}
