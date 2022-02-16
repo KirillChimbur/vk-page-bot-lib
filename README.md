@@ -1,7 +1,8 @@
 # vk-page-bot-lib
 
-Description: there is a logger of new messages and a logger that a friend has entered/left in/from VK. There are 2 commands:
-1. -push — Mention all participants in the conversation. Mention all members in the conversation.
+Description: There are 2 commands and a logger. There is a logger of new messages and a logger that a friend has entered/left in/from VK.
+There are 2 commands:
+1. -push — Mention all members in the conversation. Mention all members in the conversation.
 2. -magick — A message that will change the text for about 3 seconds.
 
 Requirements: BIN PHP 8.0
